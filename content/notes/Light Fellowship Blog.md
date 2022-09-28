@@ -1,6 +1,6 @@
 ---
 title: "Light Fellowship blog"
-date: 2022-09-27
+date: 2022-09-28
 tags:
 - Travel
 - Language
