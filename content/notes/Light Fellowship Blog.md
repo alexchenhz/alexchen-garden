@@ -1,5 +1,5 @@
 ---
-title: "Light Fellowship blog"
+title: "Light Fellowship - blog"
 date: 2022-09-28
 tags:
 - Travel
