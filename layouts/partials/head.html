@@ -14,6 +14,12 @@
   </title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
 
+  <!-- Open Graph social previews -->
+  <meta property="og:title" content="{{ if .Title }}{{ .Title }}{{ else }}{{ $data.page_title | default $.Site.Data.config.page_title }}{{
+    end }}">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="social.jpg">
+
   <!-- HTML Favicon -->
   {{ $favicon := $data.favicon  | default $.Site.Data.config.favicon | default (slice (dict "rel" "shortcut icon" "type" "image/png" "href" "icon.png")) }}
   {{ $type := (printf "%T" $favicon) }}
