@@ -8,4 +8,5 @@ I'm Alex. I've got lots of thoughts and ideas scattered across different sources
 
 ## 🗺 Explore
 - 🧑‍🎨 Creative 
+	- [@alexchendesigns](notes/@alexchendesigns.md)
 	- [Light Fellowship Blog](notes/Light%20Fellowship%20Blog.md)
