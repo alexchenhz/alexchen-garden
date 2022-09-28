@@ -15,4 +15,4 @@ e=d.getElementsByTagName(s)[0];e.parentNode.insertBefore(i, e);
 })();
 </script>
 
-[@alexchendesigns](https://instagram.com/alexchendesigns)
+Follow me [@alexchendesigns](https://instagram.com/alexchendesigns)
