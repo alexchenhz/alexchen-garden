@@ -45,7 +45,7 @@ Rest of your content here...
 ```
 
 ### Obsidian
-I recommend using [Obsidian](http://obsidian.md/) as a way to edit and grow your digital garden. It comes with a really nice editor and graphical interface to preview all of your local files.
+I recommend using [Obsidian](https://obsidian.md/) as a way to edit and grow your digital garden. It comes with a really nice editor and graphical interface to preview all of your local files.
 
 This step is **highly recommended**.
 

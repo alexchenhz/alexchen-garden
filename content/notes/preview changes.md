@@ -31,7 +31,7 @@ cd <location-of-your-local-quartz>
 # Start local server
 make serve
 
-# View your site in a browser at http://localhost:1313/
+# View your site in a browser at https://localhost:1313/
 ```
 
 > 🌍 Step 5: [Hosting Quartz online!](notes/hosting.md)
