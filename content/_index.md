@@ -9,4 +9,6 @@ I'm Alex. I've got lots of thoughts, ideas, and stuff I've made scattered across
 ## 🗺 Explore
 - 🧑‍🎨 Creative 
 	- [@alexchendesigns](notes/@alexchendesigns.md)
-	- [Light Fellowship Blog](notes/Light%20Fellowship%20Blog.md)
+	- [Light Fellowship blog](notes/Light%20Fellowship%20blog.md)
+- ✌️ Life
+	- [Concerts and festivals](notes/Concerts%20and%20festivals.md)
