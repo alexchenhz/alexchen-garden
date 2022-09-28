@@ -55,7 +55,7 @@ enableRecentNotes: false
 # whether to display an 'edit' button next to the last edited field
 # that links to github
 enableGitHubEdit: true
-GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
+GitHubLink: https://github.alexchen.dev/alexchen-garden/tree/hugo/content
 
 # whether to use Operand to power semantic search
 # IMPORTANT: replace this API key with your own if you plan on using
