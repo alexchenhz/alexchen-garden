@@ -12,3 +12,5 @@ I'm Alex. I've got lots of thoughts, ideas, and stuff I've made scattered across
 	- [Light Fellowship blog](notes/Light%20Fellowship%20blog.md)
 - ✌️ Life
 	- [Concerts and festivals](notes/Concerts%20and%20festivals.md)
+- ✅ Productivity
+	- [Tools I use](notes/Tools%20I%20use.md)
