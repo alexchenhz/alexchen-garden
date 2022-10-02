@@ -24,6 +24,7 @@ A running list of all of the tools and services I regularly use.
 - Desktop email: Mimestream
 - Domains: Google Domains, Cloudflare
 - Website hosting: Render, Vercel, Netlify, GitHub Pages
+- Backend for side projects: Supabase
 - Budgeting: YNAB
 - LaTeX documents: Overleaf
 - Investments: TDA
