@@ -14,3 +14,5 @@ I'm Alex. I've got lots of thoughts, ideas, and stuff I've made scattered across
 	- [Concerts and festivals](notes/Concerts%20and%20festivals.md)
 - ✅ Productivity
 	- [Tools I use](notes/Tools%20I%20use.md)
+- 🏙 Urban design and experiences
+	- [Favorite urban design videos](notes/Favorite%20urban%20design%20videos.md)

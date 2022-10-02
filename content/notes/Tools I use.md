@@ -3,6 +3,7 @@ title: "Tools I use"
 date: 2022-10-01
 tags:
 - Productivity
+- Collections
 ---
 A running list of all of the tools and services I regularly use.
 
