@@ -1,6 +1,6 @@
 ---
 title: "Tools I use"
-date: 2022-10-01
+date: 2022-11-03
 tags:
 - Productivity
 - Collections
@@ -13,6 +13,7 @@ A running list of all of the tools and services I regularly use.
 - Personal notes: Notion
 - Data storage and personal "apps": Airtable
 - No-code app development: Glide
+- Personal planning/time management: Reclaim
 - Scheduling link: Calendly + Cal.com
 - File storage: Google Drive
 - Photo backups and storage: Google Photos + Google Drive

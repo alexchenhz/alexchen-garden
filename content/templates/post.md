@@ -1,6 +1,6 @@
 ---
 title: "{{title}}"
-date: YYYY-MM-DD
+date: {{date}}
 tags:
 - 
 ---
