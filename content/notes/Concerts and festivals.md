@@ -46,3 +46,6 @@ Got back into EDM in college...
 - Martin Garrix
 ## 2022-09-28 Flume (NY)
 ![2022_flume](notes/images/concerts/2022_flume.jpeg)
+## 2022-12-03 Ray Volpe and Jason Ross (BOS)
+![2022_ray_volpe](notes/images/concerts/2022_ray_volpe.jpg)
+![2022_jason_ross](notes/images/concerts/2022_jason_ross.jpg)
