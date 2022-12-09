@@ -13,7 +13,7 @@ enableRecentNotes: false
 enableGitHubEdit: false
 GitHubLink: https://github.com/alexchenhz/alexchen-garden/tree/hugo/content
 enableSemanticSearch: false
-operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
+operandApiKey: "cerd5aj3a1vpdkfml29opkw3porvnnvwt4tj"
 description:
   Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
   Wikilink support, backlinks, local graph, tags, and link previews.
