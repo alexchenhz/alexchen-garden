@@ -10,7 +10,7 @@ A running list of all of the tools and services I regularly use.
 - Temporary notes, ideas, and checklists: Google Keep
 - Personal to do list: TickTick
 - Class notes: OneNote
-- Personal notes: Notion
+- Personal notes: Notion, Obsidian
 - Data storage and personal "apps": Airtable
 - No-code app development: Glide
 - Personal planning/time management: Reclaim
@@ -35,3 +35,4 @@ A running list of all of the tools and services I regularly use.
 - VPN: Cloudflare WARP
 - Publishing articles online: Medium
 - Password manager: Bitwarden
+- NAS server: Open Media Vault
